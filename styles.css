@@ -1,0 +1,24 @@
+/* add your CSS here */
+h3{
+    margin: 0px 10px;
+}
+img{
+    margin: 0px 10px;
+}
+.box {
+    border: 1px solid;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.content {
+    border: 1px solid;
+    margin: 10px 10px;
+    padding-left: 10px;
+}
+
+.content p:first-child {
+    font-style: italic;
+}
+span{
+    font-weight: 600;
+}
